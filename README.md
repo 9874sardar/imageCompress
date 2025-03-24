@@ -1,3 +1,5 @@
+Demo video - https://www.linkedin.com/posts/sardar-tariq-aziz_reactnative-mobiledevelopment-imagecompression-activity-7309844801305067520-9KVi?utm_source=share&utm_medium=member_desktop&rcm=ACoAACcifSsBCtfsAREJDp0lbtr5LziqtJnXZpE
+
 ![image](https://github.com/user-attachments/assets/63ef37f5-e370-44e3-9ece-32bd41605c58)
 
 ![image](https://github.com/user-attachments/assets/76debe41-4dfc-44d6-a389-7be0724c5b64)
